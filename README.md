@@ -19,4 +19,5 @@ Ktupad MVC Framework
 
 Done.
 
-![Ktupad Basic App](basic.png)
+![Ktupad Basic App](view-1.png)
+![Ktupad Basic App](view-2.png)
