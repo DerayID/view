@@ -341,9 +341,13 @@ right: 0;
 
 
 
-.center { margin: auto; text-align: center; }
-.left{float: left; }
-.right{float:right; }
+.padding { padding: 8px;}
+.border { border: 2px solid var(--pDarkColor);}
+.center { margin: auto; text-align: center; padding: 8px;}
+.left , li.left{float:left; }
+.right, li.right{ float:right;}
+li.title{ padding: 15px}
+
 .hide{display:none; }
 .show{ display:block; }
 .label { color: white; padding: 8px; }
